@@ -1,308 +1,1406 @@
 [
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520601171_e20251520603556_c20251520604028_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520606171_e20251520608556_c20251520609035_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520611171_e20251520613556_c20251520614048_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520611171_e20251520613556_c20251520614048_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
     "ts0": "20251520601171",
-    "ts_mid": "20251520606171",
-    "ts1": "20251520611171",
-    "t_param": 0.5
+    "ts_mid": "20251520611171",
+    "ts1": "20251520631171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520601171_e20251520603556_c20251520604028_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
+    "ts0": "20251520601171",
+    "ts_mid": "20251520621171",
+    "ts1": "20251520631171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520606171_e20251520608556_c20251520609035_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520611171_e20251520613556_c20251520614048_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520616171_e20251520618556_c20251520619023_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520616171_e20251520618556_c20251520619023_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
     "ts0": "20251520606171",
-    "ts_mid": "20251520611171",
-    "ts1": "20251520616171",
-    "t_param": 0.5
+    "ts_mid": "20251520616171",
+    "ts1": "20251520636171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520606171_e20251520608556_c20251520609035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
+    "ts0": "20251520606171",
+    "ts_mid": "20251520626171",
+    "ts1": "20251520636171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520611171_e20251520613556_c20251520614048_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520616171_e20251520618556_c20251520619023_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
     "ts0": "20251520611171",
-    "ts_mid": "20251520616171",
-    "ts1": "20251520621171",
-    "t_param": 0.5
+    "ts_mid": "20251520621171",
+    "ts1": "20251520641171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520611171_e20251520613556_c20251520614048_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
+    "ts0": "20251520611171",
+    "ts_mid": "20251520631171",
+    "ts1": "20251520641171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520616171_e20251520618556_c20251520619023_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
     "ts0": "20251520616171",
-    "ts_mid": "20251520621171",
-    "ts1": "20251520626171",
-    "t_param": 0.5
+    "ts_mid": "20251520626171",
+    "ts1": "20251520646171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520616171_e20251520618556_c20251520619023_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
+    "ts0": "20251520616171",
+    "ts_mid": "20251520636171",
+    "ts1": "20251520646171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
     "ts0": "20251520621171",
-    "ts_mid": "20251520626171",
-    "ts1": "20251520631171",
-    "t_param": 0.5
+    "ts_mid": "20251520631171",
+    "ts1": "20251520651171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520621171_e20251520623556_c20251520624024_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
+    "ts0": "20251520621171",
+    "ts_mid": "20251520641171",
+    "ts1": "20251520651171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
     "ts0": "20251520626171",
-    "ts_mid": "20251520631171",
-    "ts1": "20251520636171",
-    "t_param": 0.5
+    "ts_mid": "20251520636171",
+    "ts1": "20251520656171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520626171_e20251520628555_c20251520629025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
+    "ts0": "20251520626171",
+    "ts_mid": "20251520646171",
+    "ts1": "20251520656171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
     "ts0": "20251520631171",
-    "ts_mid": "20251520636171",
-    "ts1": "20251520641171",
-    "t_param": 0.5
+    "ts_mid": "20251520641171",
+    "ts1": "20251520701171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520631171_e20251520633556_c20251520634032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
+    "ts0": "20251520631171",
+    "ts_mid": "20251520651171",
+    "ts1": "20251520701171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
     "ts0": "20251520636171",
-    "ts_mid": "20251520641171",
-    "ts1": "20251520646171",
-    "t_param": 0.5
+    "ts_mid": "20251520646171",
+    "ts1": "20251520706171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520636171_e20251520638556_c20251520639029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
+    "ts0": "20251520636171",
+    "ts_mid": "20251520656171",
+    "ts1": "20251520706171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
     "ts0": "20251520641171",
-    "ts_mid": "20251520646171",
-    "ts1": "20251520651171",
-    "t_param": 0.5
+    "ts_mid": "20251520651171",
+    "ts1": "20251520711171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520641171_e20251520643556_c20251520644034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
+    "ts0": "20251520641171",
+    "ts_mid": "20251520701171",
+    "ts1": "20251520711171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
     "ts0": "20251520646171",
-    "ts_mid": "20251520651171",
-    "ts1": "20251520656171",
-    "t_param": 0.5
+    "ts_mid": "20251520656171",
+    "ts1": "20251520716171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520646171_e20251520648556_c20251520649031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
+    "ts0": "20251520646171",
+    "ts_mid": "20251520706171",
+    "ts1": "20251520716171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
     "ts0": "20251520651171",
-    "ts_mid": "20251520656171",
-    "ts1": "20251520701171",
-    "t_param": 0.5
+    "ts_mid": "20251520701171",
+    "ts1": "20251520721171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520651171_e20251520653556_c20251520654035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
+    "ts0": "20251520651171",
+    "ts_mid": "20251520711171",
+    "ts1": "20251520721171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
     "ts0": "20251520656171",
-    "ts_mid": "20251520701171",
-    "ts1": "20251520706171",
-    "t_param": 0.5
+    "ts_mid": "20251520706171",
+    "ts1": "20251520726171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251520656171_e20251520658556_c20251520659035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
+    "ts0": "20251520656171",
+    "ts_mid": "20251520716171",
+    "ts1": "20251520726171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
     "ts0": "20251520701171",
-    "ts_mid": "20251520706171",
-    "ts1": "20251520711171",
-    "t_param": 0.5
+    "ts_mid": "20251520711171",
+    "ts1": "20251520731171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520701171_e20251520703556_c20251520704006_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
+    "ts0": "20251520701171",
+    "ts_mid": "20251520721171",
+    "ts1": "20251520731171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
     "ts0": "20251520706171",
-    "ts_mid": "20251520711171",
-    "ts1": "20251520716171",
-    "t_param": 0.5
+    "ts_mid": "20251520716171",
+    "ts1": "20251520736171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520706171_e20251520708556_c20251520709018_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
+    "ts0": "20251520706171",
+    "ts_mid": "20251520726171",
+    "ts1": "20251520736171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
     "ts0": "20251520711171",
-    "ts_mid": "20251520716171",
-    "ts1": "20251520721171",
-    "t_param": 0.5
+    "ts_mid": "20251520721171",
+    "ts1": "20251520741171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520711171_e20251520713556_c20251520714025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
+    "ts0": "20251520711171",
+    "ts_mid": "20251520731171",
+    "ts1": "20251520741171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
     "ts0": "20251520716171",
-    "ts_mid": "20251520721171",
-    "ts1": "20251520726171",
-    "t_param": 0.5
+    "ts_mid": "20251520726171",
+    "ts1": "20251520746171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520716171_e20251520718557_c20251520719031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
+    "ts0": "20251520716171",
+    "ts_mid": "20251520736171",
+    "ts1": "20251520746171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
     "ts0": "20251520721171",
-    "ts_mid": "20251520726171",
-    "ts1": "20251520731171",
-    "t_param": 0.5
+    "ts_mid": "20251520731171",
+    "ts1": "20251520751171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520721171_e20251520723556_c20251520724033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
+    "ts0": "20251520721171",
+    "ts_mid": "20251520741171",
+    "ts1": "20251520751171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
     "ts0": "20251520726171",
-    "ts_mid": "20251520731171",
-    "ts1": "20251520736171",
-    "t_param": 0.5
+    "ts_mid": "20251520736171",
+    "ts1": "20251520756171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520726171_e20251520728556_c20251520729045_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
+    "ts0": "20251520726171",
+    "ts_mid": "20251520746171",
+    "ts1": "20251520756171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
     "ts0": "20251520731171",
-    "ts_mid": "20251520736171",
-    "ts1": "20251520741171",
-    "t_param": 0.5
+    "ts_mid": "20251520741171",
+    "ts1": "20251520801171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520731171_e20251520733556_c20251520734041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
+    "ts0": "20251520731171",
+    "ts_mid": "20251520751171",
+    "ts1": "20251520801171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
     "ts0": "20251520736171",
-    "ts_mid": "20251520741171",
-    "ts1": "20251520746171",
-    "t_param": 0.5
+    "ts_mid": "20251520746171",
+    "ts1": "20251520806171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520736171_e20251520738556_c20251520739032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
+    "ts0": "20251520736171",
+    "ts_mid": "20251520756171",
+    "ts1": "20251520806171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
     "ts0": "20251520741171",
-    "ts_mid": "20251520746171",
-    "ts1": "20251520751171",
-    "t_param": 0.5
+    "ts_mid": "20251520751171",
+    "ts1": "20251520811171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520741171_e20251520743556_c20251520744027_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
+    "ts0": "20251520741171",
+    "ts_mid": "20251520801171",
+    "ts1": "20251520811171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
     "ts0": "20251520746171",
-    "ts_mid": "20251520751171",
-    "ts1": "20251520756171",
-    "t_param": 0.5
+    "ts_mid": "20251520756171",
+    "ts1": "20251520816171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520746171_e20251520748556_c20251520749045_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
+    "ts0": "20251520746171",
+    "ts_mid": "20251520806171",
+    "ts1": "20251520816171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
     "ts0": "20251520751171",
-    "ts_mid": "20251520756171",
-    "ts1": "20251520801171",
-    "t_param": 0.5
+    "ts_mid": "20251520801171",
+    "ts1": "20251520821171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520751171_e20251520753556_c20251520754037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
+    "ts0": "20251520751171",
+    "ts_mid": "20251520811171",
+    "ts1": "20251520821171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
     "ts0": "20251520756171",
-    "ts_mid": "20251520801171",
-    "ts1": "20251520806171",
-    "t_param": 0.5
+    "ts_mid": "20251520806171",
+    "ts1": "20251520826171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251520756171_e20251520758556_c20251520758599_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
+    "ts0": "20251520756171",
+    "ts_mid": "20251520816171",
+    "ts1": "20251520826171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
     "ts0": "20251520801171",
-    "ts_mid": "20251520806171",
-    "ts1": "20251520811171",
-    "t_param": 0.5
+    "ts_mid": "20251520811171",
+    "ts1": "20251520831171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520801171_e20251520803556_c20251520804037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
+    "ts0": "20251520801171",
+    "ts_mid": "20251520821171",
+    "ts1": "20251520831171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
     "ts0": "20251520806171",
-    "ts_mid": "20251520811171",
-    "ts1": "20251520816171",
-    "t_param": 0.5
+    "ts_mid": "20251520816171",
+    "ts1": "20251520836171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520806171_e20251520808556_c20251520809030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
+    "ts0": "20251520806171",
+    "ts_mid": "20251520826171",
+    "ts1": "20251520836171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
     "ts0": "20251520811171",
-    "ts_mid": "20251520816171",
-    "ts1": "20251520821171",
-    "t_param": 0.5
+    "ts_mid": "20251520821171",
+    "ts1": "20251520841171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520811171_e20251520813556_c20251520814025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
+    "ts0": "20251520811171",
+    "ts_mid": "20251520831171",
+    "ts1": "20251520841171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
     "ts0": "20251520816171",
-    "ts_mid": "20251520821171",
-    "ts1": "20251520826171",
-    "t_param": 0.5
+    "ts_mid": "20251520826171",
+    "ts1": "20251520846171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520816171_e20251520818556_c20251520819033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
+    "ts0": "20251520816171",
+    "ts_mid": "20251520836171",
+    "ts1": "20251520846171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
     "ts0": "20251520821171",
-    "ts_mid": "20251520826171",
-    "ts1": "20251520831171",
-    "t_param": 0.5
+    "ts_mid": "20251520831171",
+    "ts1": "20251520851171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520821171_e20251520823556_c20251520824010_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "ts0": "20251520821171",
+    "ts_mid": "20251520841171",
+    "ts1": "20251520851171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
     "ts0": "20251520826171",
-    "ts_mid": "20251520831171",
-    "ts1": "20251520836171",
-    "t_param": 0.5
+    "ts_mid": "20251520836171",
+    "ts1": "20251520856171",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520826171_e20251520828556_c20251520829025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "ts0": "20251520826171",
+    "ts_mid": "20251520846171",
+    "ts1": "20251520856171",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
     "ts0": "20251520831171",
-    "ts_mid": "20251520836171",
-    "ts1": "20251520841171",
-    "t_param": 0.5
+    "ts_mid": "20251520841171",
+    "ts1": "20251770601172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520831171_e20251520833556_c20251520834040_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
+    "ts0": "20251520831171",
+    "ts_mid": "20251520851171",
+    "ts1": "20251770601172",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
     "ts0": "20251520836171",
-    "ts_mid": "20251520841171",
-    "ts1": "20251520846171",
-    "t_param": 0.5
+    "ts_mid": "20251520846171",
+    "ts1": "20251770606172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520836171_e20251520838556_c20251520839029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
+    "ts0": "20251520836171",
+    "ts_mid": "20251520856171",
+    "ts1": "20251770606172",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
     "ts0": "20251520841171",
-    "ts_mid": "20251520846171",
-    "ts1": "20251520851171",
-    "t_param": 0.5
+    "ts_mid": "20251520851171",
+    "ts1": "20251770611172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520841171_e20251520843555_c20251520844036_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
+    "ts0": "20251520841171",
+    "ts_mid": "20251770601172",
+    "ts1": "20251770611172",
+    "t_param": 0.667
   },
   {
     "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
-    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
-    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
     "ts0": "20251520846171",
-    "ts_mid": "20251520851171",
-    "ts1": "20251520856171",
-    "t_param": 0.5
+    "ts_mid": "20251520856171",
+    "ts1": "20251770616172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520846171_e20251520848556_c20251520849041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
+    "ts0": "20251520846171",
+    "ts_mid": "20251770606172",
+    "ts1": "20251770616172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "ts0": "20251520851171",
+    "ts_mid": "20251770601172",
+    "ts1": "20251770621172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520851171_e20251520853556_c20251520854003_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "ts0": "20251520851171",
+    "ts_mid": "20251770611172",
+    "ts1": "20251770621172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "ts0": "20251520856171",
+    "ts_mid": "20251770606172",
+    "ts1": "20251770626172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\152\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251520856171_e20251520858556_c20251520859029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "ts0": "20251520856171",
+    "ts_mid": "20251770616172",
+    "ts1": "20251770626172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "ts0": "20251770601172",
+    "ts_mid": "20251770611172",
+    "ts1": "20251770631172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770601172_e20251770603556_c20251770604038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "ts0": "20251770601172",
+    "ts_mid": "20251770621172",
+    "ts1": "20251770631172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "ts0": "20251770606172",
+    "ts_mid": "20251770616172",
+    "ts1": "20251770636172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770606172_e20251770608557_c20251770609029_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "ts0": "20251770606172",
+    "ts_mid": "20251770626172",
+    "ts1": "20251770636172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "ts0": "20251770611172",
+    "ts_mid": "20251770621172",
+    "ts1": "20251770641172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770611172_e20251770613557_c20251770614009_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "ts0": "20251770611172",
+    "ts_mid": "20251770631172",
+    "ts1": "20251770641172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "ts0": "20251770616172",
+    "ts_mid": "20251770626172",
+    "ts1": "20251770646172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770616172_e20251770618557_c20251770619056_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "ts0": "20251770616172",
+    "ts_mid": "20251770636172",
+    "ts1": "20251770646172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "ts0": "20251770621172",
+    "ts_mid": "20251770631172",
+    "ts1": "20251770651172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770621172_e20251770623557_c20251770624037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "ts0": "20251770621172",
+    "ts_mid": "20251770641172",
+    "ts1": "20251770651172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "ts0": "20251770626172",
+    "ts_mid": "20251770636172",
+    "ts1": "20251770656172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770626172_e20251770628557_c20251770629038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "ts0": "20251770626172",
+    "ts_mid": "20251770646172",
+    "ts1": "20251770656172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "ts0": "20251770631172",
+    "ts_mid": "20251770641172",
+    "ts1": "20251770701172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770631172_e20251770633557_c20251770634038_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "ts0": "20251770631172",
+    "ts_mid": "20251770651172",
+    "ts1": "20251770701172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "ts0": "20251770636172",
+    "ts_mid": "20251770646172",
+    "ts1": "20251770706172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770636172_e20251770638556_c20251770639024_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "ts0": "20251770636172",
+    "ts_mid": "20251770656172",
+    "ts1": "20251770706172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "ts0": "20251770641172",
+    "ts_mid": "20251770651172",
+    "ts1": "20251770711172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770641172_e20251770643557_c20251770644034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "ts0": "20251770641172",
+    "ts_mid": "20251770701172",
+    "ts1": "20251770711172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "ts0": "20251770646172",
+    "ts_mid": "20251770656172",
+    "ts1": "20251770716172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770646172_e20251770648557_c20251770649034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "ts0": "20251770646172",
+    "ts_mid": "20251770706172",
+    "ts1": "20251770716172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "ts0": "20251770651172",
+    "ts_mid": "20251770701172",
+    "ts1": "20251770721172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770651172_e20251770653558_c20251770654032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "ts0": "20251770651172",
+    "ts_mid": "20251770711172",
+    "ts1": "20251770721172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "ts0": "20251770656172",
+    "ts_mid": "20251770706172",
+    "ts1": "20251770726172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\06\\OR_ABI-L1b-RadC-M6C13_G19_s20251770656172_e20251770658557_c20251770659032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "ts0": "20251770656172",
+    "ts_mid": "20251770716172",
+    "ts1": "20251770726172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "ts0": "20251770701172",
+    "ts_mid": "20251770711172",
+    "ts1": "20251770731172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770701172_e20251770703557_c20251770704037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "ts0": "20251770701172",
+    "ts_mid": "20251770721172",
+    "ts1": "20251770731172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "ts0": "20251770706172",
+    "ts_mid": "20251770716172",
+    "ts1": "20251770736172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770706172_e20251770708557_c20251770709028_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "ts0": "20251770706172",
+    "ts_mid": "20251770726172",
+    "ts1": "20251770736172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "ts0": "20251770711172",
+    "ts_mid": "20251770721172",
+    "ts1": "20251770741172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770711172_e20251770713557_c20251770714033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "ts0": "20251770711172",
+    "ts_mid": "20251770731172",
+    "ts1": "20251770741172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "ts0": "20251770716172",
+    "ts_mid": "20251770726172",
+    "ts1": "20251770746172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770716172_e20251770718557_c20251770719030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "ts0": "20251770716172",
+    "ts_mid": "20251770736172",
+    "ts1": "20251770746172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "ts0": "20251770721172",
+    "ts_mid": "20251770731172",
+    "ts1": "20251770751172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770721172_e20251770723557_c20251770724007_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "ts0": "20251770721172",
+    "ts_mid": "20251770741172",
+    "ts1": "20251770751172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "ts0": "20251770726172",
+    "ts_mid": "20251770736172",
+    "ts1": "20251770756172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770726172_e20251770728556_c20251770729031_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "ts0": "20251770726172",
+    "ts_mid": "20251770746172",
+    "ts1": "20251770756172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "ts0": "20251770731172",
+    "ts_mid": "20251770741172",
+    "ts1": "20251770801172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770731172_e20251770733557_c20251770734025_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "ts0": "20251770731172",
+    "ts_mid": "20251770751172",
+    "ts1": "20251770801172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "ts0": "20251770736172",
+    "ts_mid": "20251770746172",
+    "ts1": "20251770806172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770736172_e20251770738557_c20251770739032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "ts0": "20251770736172",
+    "ts_mid": "20251770756172",
+    "ts1": "20251770806172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "ts0": "20251770741172",
+    "ts_mid": "20251770751172",
+    "ts1": "20251770811172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770741172_e20251770743557_c20251770744039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "ts0": "20251770741172",
+    "ts_mid": "20251770801172",
+    "ts1": "20251770811172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "ts0": "20251770746172",
+    "ts_mid": "20251770756172",
+    "ts1": "20251770816172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770746172_e20251770748557_c20251770749037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "ts0": "20251770746172",
+    "ts_mid": "20251770806172",
+    "ts1": "20251770816172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "ts0": "20251770751172",
+    "ts_mid": "20251770801172",
+    "ts1": "20251770821172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770751172_e20251770753557_c20251770754006_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "ts0": "20251770751172",
+    "ts_mid": "20251770811172",
+    "ts1": "20251770821172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "ts0": "20251770756172",
+    "ts_mid": "20251770806172",
+    "ts1": "20251770826172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\07\\OR_ABI-L1b-RadC-M6C13_G19_s20251770756172_e20251770758558_c20251770759039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "ts0": "20251770756172",
+    "ts_mid": "20251770816172",
+    "ts1": "20251770826172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "ts0": "20251770801172",
+    "ts_mid": "20251770811172",
+    "ts1": "20251770831172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770801172_e20251770803557_c20251770804020_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "ts0": "20251770801172",
+    "ts_mid": "20251770821172",
+    "ts1": "20251770831172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "ts0": "20251770806172",
+    "ts_mid": "20251770816172",
+    "ts1": "20251770836172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770806172_e20251770808557_c20251770809039_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "ts0": "20251770806172",
+    "ts_mid": "20251770826172",
+    "ts1": "20251770836172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "ts0": "20251770811172",
+    "ts_mid": "20251770821172",
+    "ts1": "20251770841172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770811172_e20251770813557_c20251770814008_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "ts0": "20251770811172",
+    "ts_mid": "20251770831172",
+    "ts1": "20251770841172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "ts0": "20251770816172",
+    "ts_mid": "20251770826172",
+    "ts1": "20251770846172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770816172_e20251770818557_c20251770819054_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "ts0": "20251770816172",
+    "ts_mid": "20251770836172",
+    "ts1": "20251770846172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "ts0": "20251770821172",
+    "ts_mid": "20251770831172",
+    "ts1": "20251770851172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770821172_e20251770823557_c20251770824034_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "ts0": "20251770821172",
+    "ts_mid": "20251770841172",
+    "ts1": "20251770851172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "ts0": "20251770826172",
+    "ts_mid": "20251770836172",
+    "ts1": "20251770856172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770826172_e20251770828557_c20251770829030_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "ts0": "20251770826172",
+    "ts_mid": "20251770846172",
+    "ts1": "20251770856172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "ts0": "20251770831172",
+    "ts_mid": "20251770841172",
+    "ts1": "20251770901172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770831172_e20251770833557_c20251770834037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "ts0": "20251770831172",
+    "ts_mid": "20251770851172",
+    "ts1": "20251770901172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "ts0": "20251770836172",
+    "ts_mid": "20251770846172",
+    "ts1": "20251770906172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770836172_e20251770838557_c20251770839041_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "ts0": "20251770836172",
+    "ts_mid": "20251770856172",
+    "ts1": "20251770906172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "ts0": "20251770841172",
+    "ts_mid": "20251770851172",
+    "ts1": "20251770911172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770841172_e20251770843557_c20251770844037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "ts0": "20251770841172",
+    "ts_mid": "20251770901172",
+    "ts1": "20251770911172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "ts0": "20251770846172",
+    "ts_mid": "20251770856172",
+    "ts1": "20251770916172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770846172_e20251770848558_c20251770849033_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "ts0": "20251770846172",
+    "ts_mid": "20251770906172",
+    "ts1": "20251770916172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "ts0": "20251770851172",
+    "ts_mid": "20251770901172",
+    "ts1": "20251770921172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770851172_e20251770853557_c20251770854037_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "ts0": "20251770851172",
+    "ts_mid": "20251770911172",
+    "ts1": "20251770921172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "ts0": "20251770856172",
+    "ts_mid": "20251770906172",
+    "ts1": "20251770926172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\08\\OR_ABI-L1b-RadC-M6C13_G19_s20251770856172_e20251770858557_c20251770859032_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "ts0": "20251770856172",
+    "ts_mid": "20251770916172",
+    "ts1": "20251770926172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770931172_e20251770933557_c20251770934038_GRID.npy",
+    "ts0": "20251770901172",
+    "ts_mid": "20251770911172",
+    "ts1": "20251770931172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770901172_e20251770903557_c20251770904054_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770931172_e20251770933557_c20251770934038_GRID.npy",
+    "ts0": "20251770901172",
+    "ts_mid": "20251770921172",
+    "ts1": "20251770931172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770936172_e20251770938557_c20251770939042_GRID.npy",
+    "ts0": "20251770906172",
+    "ts_mid": "20251770916172",
+    "ts1": "20251770936172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770906172_e20251770908557_c20251770909028_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770936172_e20251770938557_c20251770939042_GRID.npy",
+    "ts0": "20251770906172",
+    "ts_mid": "20251770926172",
+    "ts1": "20251770936172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770941172_e20251770943558_c20251770944017_GRID.npy",
+    "ts0": "20251770911172",
+    "ts_mid": "20251770921172",
+    "ts1": "20251770941172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770911172_e20251770913557_c20251770914009_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770931172_e20251770933557_c20251770934038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770941172_e20251770943558_c20251770944017_GRID.npy",
+    "ts0": "20251770911172",
+    "ts_mid": "20251770931172",
+    "ts1": "20251770941172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770946172_e20251770948557_c20251770949030_GRID.npy",
+    "ts0": "20251770916172",
+    "ts_mid": "20251770926172",
+    "ts1": "20251770946172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770916172_e20251770918557_c20251770919036_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770936172_e20251770938557_c20251770939042_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770946172_e20251770948557_c20251770949030_GRID.npy",
+    "ts0": "20251770916172",
+    "ts_mid": "20251770936172",
+    "ts1": "20251770946172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770931172_e20251770933557_c20251770934038_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770951172_e20251770953558_c20251770954037_GRID.npy",
+    "ts0": "20251770921172",
+    "ts_mid": "20251770931172",
+    "ts1": "20251770951172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770921172_e20251770923557_c20251770924018_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770941172_e20251770943558_c20251770944017_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770951172_e20251770953558_c20251770954037_GRID.npy",
+    "ts0": "20251770921172",
+    "ts_mid": "20251770941172",
+    "ts1": "20251770951172",
+    "t_param": 0.667
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770936172_e20251770938557_c20251770939042_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770956172_e20251770958557_c20251770959020_GRID.npy",
+    "ts0": "20251770926172",
+    "ts_mid": "20251770936172",
+    "ts1": "20251770956172",
+    "t_param": 0.333
+  },
+  {
+    "t0": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770926172_e20251770928558_c20251770929035_GRID.npy",
+    "t_mid": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770946172_e20251770948557_c20251770949030_GRID.npy",
+    "t1": "D:\\satellite-interp\\data\\goes19_grid\\2025\\177\\09\\OR_ABI-L1b-RadC-M6C13_G19_s20251770956172_e20251770958557_c20251770959020_GRID.npy",
+    "ts0": "20251770926172",
+    "ts_mid": "20251770946172",
+    "ts1": "20251770956172",
+    "t_param": 0.667
   }
 ]

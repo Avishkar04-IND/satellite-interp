@@ -26,26 +26,21 @@ console = Console()
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 CONFIG = {
-    # Paths
     "index_file":   r"D:\satellite-interp\data\triplet_index.json",
     "ckpt_dir":     r"D:\satellite-interp\outputs\checkpoints",
     "log_file":     r"D:\satellite-interp\outputs\train_log.json",
 
-    # Fine-tune settings — lower LR, fewer epochs
-    "epochs":       40,          # changed from 30 → 40
+    "epochs":       60,
     "batch_size":   4,
-    "lr":           1e-5,        # changed from 1e-4 → 1e-5 (fine-tune LR)
+    "lr":           1e-4,
     "weight_decay": 1e-4,
     "grad_clip":    1.0,
     "num_workers":  0,
     "val_every":    1,
     "save_every":   5,
+    "patience":     15,      # increased from 10
 
-    # Early stopping
-    "patience":     10,
-
-    # Device
-    "device":       "cuda" if torch.cuda.is_available() else "cpu",
+    "device": "cuda" if torch.cuda.is_available() else "cpu",
 }
 
  

@@ -19,7 +19,7 @@ from data.dataset import SatelliteTripletDataset, load_index, denormalise
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 CONFIG = {
-    "index_file":  r"D:\satellite-interp\data\triplet_index.json",
+    "index_file":  r"D:\satellite-interp\data\triplet_index_original.json",
     "ckpt_path":   r"D:\satellite-interp\outputs\checkpoints\best.pth",
     "report_file": r"D:\satellite-interp\outputs\validation_report.json",
     "device":      "cuda" if torch.cuda.is_available() else "cpu",
@@ -123,9 +123,7 @@ def validate():
 
     # ── Validation dataset ────────────────────────────────────────────────────
     triplets = load_index()
-    split    = int(len(triplets) * 0.8)
-    val_t    = triplets[split:]
-    val_ds   = SatelliteTripletDataset(val_t, augment=False)
+    val_ds   = SatelliteTripletDataset(triplets, augment=False)
     val_loader = DataLoader(val_ds, batch_size=CONFIG["batch_size"],
                             shuffle=False, num_workers=0)
 

@@ -20,7 +20,7 @@ PATCH_SIZE  = 128          # pixels — 128x128 fits T4 GPU comfortably
 STRIDE      = 64           # 50% overlap between patches
 BT_MIN      = 180.0        # Kelvin — normalisation range
 BT_MAX      = 320.0        # Kelvin — normalisation range
-MIN_VALID   = 0.70         # minimum fraction of non-NaN pixels in a patch
+MIN_VALID   = 0.85         # minimum fraction of non-NaN pixels in a patch
 
 # ── Normalisation helpers ──────────────────────────────────────────────────────
 def normalise(bt_array):
@@ -46,16 +46,16 @@ def extract_timestamp(filename):
 
 def build_triplet_index():
     """
-    Find all grid files, sort by timestamp, group into consecutive triplets.
-    A valid triplet = three files where spacing is approximately equal
-    (T0, T_mid, T1) where T_mid is the ground truth intermediate frame.
+    Build triplets spaced 30 minutes apart.
+    From files every 5 min: take every 6th file as T0,
+    the 2nd file (+10 min) as T_mid, 6th file (+30 min) as T1.
     """
     grid_files = sorted(glob.glob(
         os.path.join(GRID_DIR, "**", "*_GRID.npy"), recursive=True
     ))
 
-    if len(grid_files) < 3:
-        print(f"Need at least 3 grid files, found {len(grid_files)}")
+    if len(grid_files) < 7:
+        print(f"Need at least 7 grid files, found {len(grid_files)}")
         return []
 
     print(f"Found {len(grid_files)} grid files")
@@ -66,27 +66,41 @@ def build_triplet_index():
         ts = extract_timestamp(f)
         if ts:
             timestamped.append((ts, f))
-
     timestamped.sort(key=lambda x: x[0])
 
-    # Build triplets: (T0, T_mid, T1) from consecutive files
+    # Build 30-min spaced triplets
+    # Files are 5-min apart so step=6 gives 30-min gap
+    # T0=index i, T_mid=index i+2 (+10min), T1=index i+6 (+30min)
     triplets = []
-    for i in range(len(timestamped) - 2):
-        ts0,  f0   = timestamped[i]
-        ts_mid, f_mid = timestamped[i + 1]
-        ts1,  f1   = timestamped[i + 2]
+    for i in range(len(timestamped) - 6):
+        ts0,   f0   = timestamped[i]
+        ts_mid, f_mid = timestamped[i + 2]   # +10 min
+        ts1,   f1   = timestamped[i + 6]     # +30 min
 
         triplets.append({
-            "t0":    f0,
-            "t_mid": f_mid,
-            "t1":    f1,
-            "ts0":   ts0,
-            "ts_mid": ts_mid,
-            "ts1":   ts1,
-            "t_param": 0.5      # midpoint between T0 and T1
+            "t0":      f0,
+            "t_mid":   f_mid,
+            "t1":      f1,
+            "ts0":     ts0,
+            "ts_mid":  ts_mid,
+            "ts1":     ts1,
+            "t_param": 0.333    # 10-min out of 30-min = t=0.333
         })
 
-    print(f"Built {len(triplets)} triplets")
+        # Also add the 20-min frame as a second triplet
+        if i + 4 < len(timestamped):
+            ts_mid2, f_mid2 = timestamped[i + 4]  # +20 min
+            triplets.append({
+                "t0":      f0,
+                "t_mid":   f_mid2,
+                "t1":      f1,
+                "ts0":     ts0,
+                "ts_mid":  ts_mid2,
+                "ts1":     ts1,
+                "t_param": 0.667   # 20-min out of 30-min = t=0.667
+            })
+
+    print(f"Built {len(triplets)} triplets (30-min spaced)")
     return triplets
 
 def save_index(triplets):
